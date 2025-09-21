@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-direction: row;">
 
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠴⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -34,7 +34,6 @@
 </pre>
 
 <div>
-
 **andrew@grant**  
 -------------------------------  
 **OS:** .................. Windows 10, Android 14, Linux  
@@ -67,6 +66,5 @@
 **Commits:** ........ 2,116  
 **Followers:** ...... 196  
 **Lines of Code on GitHub:** 446,276 (523,178+, 76,902−)  
-
 </div>
 </div>
