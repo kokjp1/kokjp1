@@ -1,6 +1,5 @@
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-direction: row;">
+# temp
 
-<pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠴⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⡴⠋⠛⠯⣀⠠⡀⠘⣇⠀⣠⠦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⢀⣀⣀⣀⢠⠏⠀⠀⠀⠀⠈⢷⢧⡆⢸⣰⠃⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -31,40 +30,58 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠁⠈⠳⣜⢯⠳⣌⠻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠈⠛⠲⠦⠤⢿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</pre>
 
-<div>
-**andrew@grant**  
--------------------------------  
-**OS:** .................. Windows 10, Android 14, Linux  
-**Uptime:** .............. 22 years, 5 months, 29 days  
-**Host:** ................ TTM Technologies, Inc.  
-**Kernel:** .............. CAM (Computer Aided Manufacturing) Operator  
-**IDE:** ................. IDEA 2023.3.2, VSCode 1.96.0  
+# 👋 Hi, I’m James
 
-**Languages.Programming:** ..... Java, Python, JavaScript, C++  
-**Languages.Computer:** ........ HTML, CSS, JSON, LaTeX, YAML  
-**Languages.Real:** ............ English, Spanish  
+I’m a **Communication & Multimedia Design (CMD)** student at the Hogeschool van Amsterdam with a passion for **designing and developing interactive experiences**.
 
-**Hobbies.Software:** .......... Minecraft Modding, iOS Jailbreaking  
-**Hobbies.Hardware:** .......... Overclocking, Undervolting  
+I enjoy building clean, functional projects that bring together **design, development, and creativity**.
 
--------------------------------  
-**Contact**  
--------------------------------  
-**Email.Personal:** ............. agrantmac@gmail.com  
-**Email.Personal:** ............. andrew@grant.software  
-**Email.Work:** ................. Andrew.Grant@ttmtech.com  
-**LinkedIn:** ................... Andrew6rant  
-**Discord:** .................... andrew6rant  
+---
 
--------------------------------  
-**GitHub Stats**  
--------------------------------  
-**Repos:** .......... 95 {Contributed: 133}  
-**Stars:** .......... 342  
-**Commits:** ........ 2,116  
-**Followers:** ...... 196  
-**Lines of Code on GitHub:** 446,276 (523,178+, 76,902−)  
-</div>
-</div>
+## 🔧 Skills & Tools
+
+- **Languages & Frameworks**
+    
+    JavaScript · TypeScript · HTML · CSS · Node.js · Express · React · TailwindCSS
+    
+- **Design & Creative Tools**
+    
+    Figma · Adobe Creative Suite (Illustrator, Photoshop, After Effects, Lightroom) · Blender
+    
+- **Other Tech**
+    
+    Git & GitHub · Supabase · MongoDB · Vite · Next.js (exploring)
+    
+
+---
+
+## 📂 Projects
+
+- 🎨 **Portfolio** – My personal portfolio showcasing design + dev projects
+- 📊 **Datavisualisation Work** – Infographics, interactive charts & dashboards (Flourish, D3.js basics)
+- 🕹 **Pickr** – A game recommendation app with a Tinder-like interface
+- 🌍 **Project Automata** – My long-term creative Minecraft survival world
+
+*(More projects are available on my [repositories](https://github.com/kokjp1))*
+
+---
+
+## 🎯 Interests
+
+- UI/UX design & prototyping
+- Web development (front-end focus, but exploring back-end too)
+- Data visualisation & creative coding
+- Gaming, anime, tech, and digital art
+
+---
+
+## 📫 Contact
+
+- **Website/Portfolio:** [jameskok.me](https://jameskok.me/)
+- **LinkedIn:** [linkedin.com/in/jameskok](https://www.notion.so/temp-275ca49d39a380459601c735fca492ac?pvs=21)
+- **GitHub:** [@kokjp1](https://github.com/kokjp1)
+
+---
+
+⭐ Always curious. Always building. Always learning.
