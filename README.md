@@ -61,7 +61,7 @@ I’m currently a third year **Communication & Multimedia Design (CMD)** student
 > I also enjoy working with UI libraries like shadcn and daisyUI
 
 ### ⚙️ Other Tech  
-[![Other Tech](https://skillicons.dev/icons?i=github,vercel,mongodb,supabase,firebase,vite,nextjs,vscode&theme=dark)](https://skillicons.dev)
+[![Other Tech](https://skillicons.dev/icons?i=github,vercel,mongodb,supabase,firebase,vite,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
