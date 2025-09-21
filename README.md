@@ -58,6 +58,8 @@ I am planning on learning -> electron.js -> docker -> python
 ### 🎨 Design & Creative Tools  
 [![Design Tools](https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator,ae,premiere,obsidian,notion&theme=dark)](https://skillicons.dev)
 
+- I also enjoy working with UI libraries like shadcn and daisyUI
+
 ### ⚙️ Other Tech  
 [![Other Tech](https://skillicons.dev/icons?i=github,vercel,mongodb,supabase,firebase,vite,nextjs,vscode&theme=dark)](https://skillicons.dev)
 
