@@ -42,10 +42,9 @@
 //
 ```   
 
-# 👋 Hi, I’m James  
+# ׂ╰┈➤ Hi 
 
-I’m a **Communication & Multimedia Design (CMD)** student at the Hogeschool van Amsterdam with a passion for **designing and developing interactive experiences**.  
-I enjoy building clean, functional projects that bring together **design, development, and creativity**.  
+I’m currently a third year **Communication & Multimedia Design (CMD)** student at the Hogeschool van Amsterdam (hva). Besides school projects, I'm currently working on ⤷ [Listral](https://hva-19.gitbook.io/listral-wiki/). For more information about me, visit my ⤷ [portfolio](https://jameskok.me/)
 
 ---
 
@@ -66,21 +65,21 @@ I am planning on learning -> electron.js -> docker -> python
 
 ## 🎯 Interests  
 
-- UI/UX design & prototyping
+- 🎨 UI/UX design & prototyping
    - Data Visualisation
    - Web & app design
  
-- Creative work
+- 🛠️ Creative work
   - Blender work (Scenes/Models/Animations)
   - After effects work (Motion Graphics/animations/editing)
     
-- Web development with a front-end focus, but exploring back-end too  
-- Gaming, anime, tech and media in general 
+- ⚙️ Web development with a front-end focus, but exploring back-end too  
+- 🎱 Gaming, anime, tech and media in general 
 
 ---
 
 ## 📫 Contact  
 
-- **Website/Portfolio:** [jameskok.me](https://jameskok.me)  
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/jpk1/) 
-- **GitHub:** [@kokjp1](https://github.com/kokjp1)  
+- **🌐 Website/Portfolio:** [jameskok.me](https://jameskok.me)  
+- **👤 LinkedIn:** [Profile](https://www.linkedin.com/in/jpk1/) 
+- **🧑‍💻 GitHub:** [@kokjp1](https://github.com/kokjp1)  
